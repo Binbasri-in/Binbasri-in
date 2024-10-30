@@ -1,4 +1,4 @@
-<p align="center"><img src="#" alt="vovacodes" height="191" width="764"/></p>
+<p align="center"><img src="#" alt="Something will come here" height="191" width="764"/></p>
 
 <h2 align="center"> Hey 👋! Pleased to meet you! I'm Mohammed Ali ✨. If you have any questions, I would like to hear from you. Have a good day! 🤙</h2>
 
