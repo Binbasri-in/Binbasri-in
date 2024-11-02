@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hey 👋! Pleased to meet you! I'm Mohammed Ali ✨. If you have any questions, I would like to hear from you. Have a good day! 🤙</h2>
 
-<h2 align="center">🛠️ My uncomplete Toolbox: 🛠️</h2>
+<h2 align="center">🛠️ My incomplete Toolbox: 🛠️</h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Javascript Logo" width="50" height="50" /> 
