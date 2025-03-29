@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mohammed Ali (Bin-basri!) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Mohammed Ali (Binbasri!) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&width=435&lines=Software+Developer;ML+Enthusiast;Open-Source+Contributor" />
@@ -13,7 +13,7 @@
 
 - 🔬 **ML & AI Enthusiast** | Experience in NLP, Tensorflow, Langchain, OpenAI API
 - 🌐 **Web Developer** | Flask, Django, FastAPI, React, Spring Boot
-- 🏆 **SIH 2024 Finalist | [Funny Stuff](https://youtu.be/sht0VuwJG_w?t=209)
+- 🏆 **SIH 2024 Finalist** | [Funny Stuff](https://youtu.be/sht0VuwJG_w?t=209)
 - 🎯 Passionate about **AI, Backend Development, and Open Source**
 
 ---
