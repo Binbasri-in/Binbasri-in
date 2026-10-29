@@ -26,31 +26,13 @@
   </a>
 </p>
 
----
-
-### 🎖️ GitHub Achievements
-
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Binbasri-in&theme=dracula&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 GitHub Stats
+### Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Binbasri-in&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Binbasri-in&theme=dark" alt="GitHub Streak" />
-</p> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binbasri-in&layout=compact&theme=radical" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Binbasri-in&theme=dracula" alt="Summary Cards">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Binbasri-in&theme=radical" alt="GitHub Streak" />
 </p>
 
-<!-- Left Column: Metrics -->
-<div style="flex: 1; max-width: 45%;">
-    <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg">
-</div>
+
 
 ---
 
